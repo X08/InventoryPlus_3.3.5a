@@ -1,0 +1,13 @@
+## Interface: 30300
+## Title: InventoryPlus |cff888888by|r |cffffcc00X08|r |cff888888|||r |cffff7d0aDreamwind (Chromiecraft-EU)|r
+## Notes: Category tabs on the side of your bags: hover to highlight a type, route loot to the right bag, sort, and see items across characters.
+## Author: X08
+## Version: 0.8
+## SavedVariables: InventoryPlusDB
+## SavedVariablesPerCharacter: InventoryPlusCharDB
+## OptionalDeps: BulkBag
+
+Core.lua
+Tabs.lua
+Warehouse.lua
+Options.lua
